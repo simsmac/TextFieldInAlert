@@ -1,0 +1,256 @@
+TTextFieldInAlert
+v7
+r0
+t294175025.605051
+cCheck dependencies
+cProcessInfoPlistFile "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/Info.plist" TextFieldInAlert-Info.plist
+cCompileXIB "/Users/neal/Documents/Programming Projects/TextFieldInAlert/MainWindow.xib"
+cCompileXIB "/Users/neal/Documents/Programming Projects/TextFieldInAlert/TextFieldInAlertViewController.xib"
+cProcessPCH /var/folders/Qg/QgZ8j2QdEOyQYrEPrmlLaU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TextFieldInAlert_Prefix-ffyorktkwtcqxeceoblcsvgsmujt/TextFieldInAlert_Prefix.pch.gch TextFieldInAlert_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/main.o "/Users/neal/Documents/Programming Projects/TextFieldInAlert/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/TextFieldInAlertAppDelegate.o "/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/TextFieldInAlertViewController.o "/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlert" normal i386
+cGenerateDSYMFile "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app.dSYM" "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlert"
+cTouch "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004B3828BE00000000000000EE
+t1261971646
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertAppDelegate.h
+c000000004BD889590000000000000210
+t1272482137
+s528
+i<UIKit/UIKit.h>
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertAppDelegate.m
+c000000004BD889610000000000000292
+t1272482145
+s658
+i"TextFieldInAlertAppDelegate.h"
+i"TextFieldInAlertViewController.h"
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertViewController.h
+c000000004BD88952000000000000020D
+t1272482130
+s525
+i<UIKit/UIKit.h>
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertViewController.m
+c000000004BD889B00000000000000B15
+t1272482224
+s2837
+i"TextFieldInAlertViewController.h"
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/MainWindow.xib
+c000000004BD83BD000000000000024B1
+t1272462288
+s9393
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/TextFieldInAlertViewController.xib
+c000000004BD83BD000000000000018FF
+t1272462288
+s6399
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/TextFieldInAlert_Prefix.pch
+c000000004BD83BD000000000000000C9
+t1272462288
+s201
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app
+t1272482225
+s238
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app.dSYM
+t1272482225
+s102
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/Info.plist
+t1272462408
+s606
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/MainWindow.nib
+t1272462408
+s1513
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/PkgInfo
+t1272462408
+s8
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlert
+t1272482225
+s25552
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlertViewController.nib
+t1272462408
+s1151
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/TextFieldInAlert.LinkFileList
+c000000004BD83C480000000000000214
+t1272462408
+s532
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/TextFieldInAlertAppDelegate.o
+t1272482225
+s40840
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/TextFieldInAlertViewController.o
+t1272482225
+s46676
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/main.o
+t1272462409
+s6000
+
+N/Users/neal/Documents/Programming Projects/TextFieldInAlert/main.m
+c000000004BD83BD0000000000000016A
+t1272462288
+s362
+i<UIKit/UIKit.h>
+
+N/var/folders/Qg/QgZ8j2QdEOyQYrEPrmlLaU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TextFieldInAlert_Prefix-ffyorktkwtcqxeceoblcsvgsmujt/TextFieldInAlert_Prefix.pch.gch
+t1272462409
+s13034960
+
+NTextFieldInAlert-Info.plist
+c000000004BD83BD0000000000000038D
+t1272462288
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies294175025#294175025#0(0"0(0#1#0"31243859861438576#0"0#
+
+CCompileC build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/TextFieldInAlertAppDelegate.o "/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294175025.376459
+e294175025.499006
+r1
+xCompileC
+xbuild/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/TextFieldInAlertAppDelegate.o
+x/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@105"Compile /Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertAppDelegate.m294175025#294175025#0(0"0(0#0#97"/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertAppDelegate.m8386658438904696832#2346"    cd "/Users/neal/Documents/Programming Projects/TextFieldInAlert"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-generated-files.hmap" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-own-target-headers.hmap" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-all-target-headers.hmap" -iquote "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-project-headers.hmap" "-F/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/include" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/DerivedSources/i386" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/DerivedSources" -include /var/folders/Qg/QgZ8j2QdEOyQYrEPrmlLaU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TextFieldInAlert_Prefix-ffyorktkwtcqxeceoblcsvgsmujt/TextFieldInAlert_Prefix.pch -c "/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertAppDelegate.m" -o "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/TextFieldInAlertAppDelegate.o"0#
+
+CCompileC build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/TextFieldInAlertViewController.o "/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294175025.382031
+e294175025.557470
+r1
+xCompileC
+xbuild/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/TextFieldInAlertViewController.o
+x/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@108"Compile /Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertViewController.m294175025#294175025#0(0"0(0#0#100"/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertViewController.m4300885448#2352"    cd "/Users/neal/Documents/Programming Projects/TextFieldInAlert"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-generated-files.hmap" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-own-target-headers.hmap" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-all-target-headers.hmap" -iquote "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-project-headers.hmap" "-F/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/include" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/DerivedSources/i386" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/DerivedSources" -include /var/folders/Qg/QgZ8j2QdEOyQYrEPrmlLaU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TextFieldInAlert_Prefix-ffyorktkwtcqxeceoblcsvgsmujt/TextFieldInAlert_Prefix.pch -c "/Users/neal/Documents/Programming Projects/TextFieldInAlert/Classes/TextFieldInAlertViewController.m" -o "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/TextFieldInAlertViewController.o"0#
+
+CCompileC build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/main.o "/Users/neal/Documents/Programming Projects/TextFieldInAlert/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s294155209.216956
+e294155209.273245
+r1
+xCompileC
+xbuild/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/main.o
+x/Users/neal/Documents/Programming Projects/TextFieldInAlert/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@74"Compile /Users/neal/Documents/Programming Projects/TextFieldInAlert/main.m294155209#294155209#0(0"0(0#0#66"/Users/neal/Documents/Programming Projects/TextFieldInAlert/main.m4300885448#2292"    cd "/Users/neal/Documents/Programming Projects/TextFieldInAlert"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-generated-files.hmap" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-own-target-headers.hmap" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-all-target-headers.hmap" -iquote "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-project-headers.hmap" "-F/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/include" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/DerivedSources/i386" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/DerivedSources" -include /var/folders/Qg/QgZ8j2QdEOyQYrEPrmlLaU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TextFieldInAlert_Prefix-ffyorktkwtcqxeceoblcsvgsmujt/TextFieldInAlert_Prefix.pch -c "/Users/neal/Documents/Programming Projects/TextFieldInAlert/main.m" -o "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/neal/Documents/Programming Projects/TextFieldInAlert/MainWindow.xib"
+s294155208.020721
+e294155208.333630
+r1
+xCompileXIB
+x/Users/neal/Documents/Programming Projects/TextFieldInAlert/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib294155208#294155208#0(0"0(0#0#74"/Users/neal/Documents/Programming Projects/TextFieldInAlert/MainWindow.xib4300885448#560"    cd "/Users/neal/Documents/Programming Projects/TextFieldInAlert"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/MainWindow.nib" "/Users/neal/Documents/Programming Projects/TextFieldInAlert/MainWindow.xib"0#
+
+CCompileXIB "/Users/neal/Documents/Programming Projects/TextFieldInAlert/TextFieldInAlertViewController.xib"
+s294155208.021482
+e294155208.318770
+r1
+xCompileXIB
+x/Users/neal/Documents/Programming Projects/TextFieldInAlert/TextFieldInAlertViewController.xib
+lSLF07#2@45"CompileXIB TextFieldInAlertViewController.xib294155208#294155208#0(0"0(0#0#94"/Users/neal/Documents/Programming Projects/TextFieldInAlert/TextFieldInAlertViewController.xib4300885448#600"    cd "/Users/neal/Documents/Programming Projects/TextFieldInAlert"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 3.1.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlertViewController.nib" "/Users/neal/Documents/Programming Projects/TextFieldInAlert/TextFieldInAlertViewController.xib"0#
+
+CGenerateDSYMFile "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app.dSYM" "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlert"
+s294175025.580399
+e294175025.598251
+r1
+xGenerateDSYMFile
+x/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app.dSYM
+x/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlert
+lSLF07#2@136"GenerateDSYMFile build/Debug-iphonesimulator/TextFieldInAlert.app.dSYM build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlert294175025#294175025#0(0"0(0#0#125"/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlert4300885448#479"    cd "/Users/neal/Documents/Programming Projects/TextFieldInAlert"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlert" -o "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app.dSYM"0#
+
+CLd "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlert" normal i386
+s294175025.557571
+e294175025.580297
+r1
+xLd
+x/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlert
+xnormal
+xi386
+lSLF07#2@130"Link /Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlert294175025#294175025#0(0"0(0#0#0"3419204512356397056#1024"    cd "/Users/neal/Documents/Programming Projects/TextFieldInAlert"    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk "-L/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator" "-F/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator" -filelist "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/Objects-normal/i386/TextFieldInAlert.LinkFileList" -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/TextFieldInAlert"0#
+
+CProcessInfoPlistFile "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/Info.plist" TextFieldInAlert-Info.plist
+s294155208.011701
+e294155208.020627
+r1
+xProcessInfoPlistFile
+x/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/Info.plist
+xTextFieldInAlert-Info.plist
+lSLF07#2@35"Process TextFieldInAlert-Info.plist294155208#294155208#0(0"0(0#0#87"/Users/neal/Documents/Programming Projects/TextFieldInAlert/TextFieldInAlert-Info.plist4300885448#575"    cd "/Users/neal/Documents/Programming Projects/TextFieldInAlert"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TextFieldInAlert-Info.plist -genpkginfo "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app/Info.plist"0#
+
+CProcessPCH /var/folders/Qg/QgZ8j2QdEOyQYrEPrmlLaU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TextFieldInAlert_Prefix-ffyorktkwtcqxeceoblcsvgsmujt/TextFieldInAlert_Prefix.pch.gch TextFieldInAlert_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s294155208.333807
+e294155209.216833
+r1
+xProcessPCH
+x/var/folders/Qg/QgZ8j2QdEOyQYrEPrmlLaU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TextFieldInAlert_Prefix-ffyorktkwtcqxeceoblcsvgsmujt/TextFieldInAlert_Prefix.pch.gch
+xTextFieldInAlert_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@38"Precompile TextFieldInAlert_Prefix.pch294155208#294155209#0(0"0(0#0#87"/Users/neal/Documents/Programming Projects/TextFieldInAlert/TextFieldInAlert_Prefix.pch4300885448#2152"    cd "/Users/neal/Documents/Programming Projects/TextFieldInAlert"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-generated-files.hmap" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-own-target-headers.hmap" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-all-target-headers.hmap" -iquote "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/TextFieldInAlert-project-headers.hmap" "-F/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/include" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/DerivedSources/i386" "-I/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/TextFieldInAlert.build/Debug-iphonesimulator/TextFieldInAlert.build/DerivedSources" -c "/Users/neal/Documents/Programming Projects/TextFieldInAlert/TextFieldInAlert_Prefix.pch" -o /var/folders/Qg/QgZ8j2QdEOyQYrEPrmlLaU+++TM/-Caches-/com.apple.Xcode.502/SharedPrecompiledHeaders/TextFieldInAlert_Prefix-ffyorktkwtcqxeceoblcsvgsmujt/TextFieldInAlert_Prefix.pch.gch0#
+
+CTouch "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app"
+s294175025.598337
+e294175025.604994
+r1
+xTouch
+x/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app
+lSLF07#2@114"Touch /Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app294175025#294175025#0(0"0(0#0#0"4300885448#333"    cd "/Users/neal/Documents/Programming Projects/TextFieldInAlert"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/neal/Documents/Programming Projects/TextFieldInAlert/build/Debug-iphonesimulator/TextFieldInAlert.app"0#
+
